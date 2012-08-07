@@ -1,21 +1,62 @@
 <html>
   <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script type="text/javascript" src="http://scripts.embed.ly/jquery.embedly-2.1.7.js"></script>
-    <link rel="stylesheet" href="../css/bootstrap.css">
-    <link rel="stylesheet" href="../css/font-awesome.css">
-    <script>
-      $('a.oembed').embedly();
-    </script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.0.4/js/bootstrap.min.js"></script>
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="font-awesome.css">
+    <style>
+      a:link {
+        color:#000000;
+        text-decoration:none;
+        }      /* unvisited link */
+      a:visited {
+        color:#000000;
+        text-decoration:none;
+        }  /* visited link */
+      a:hover {
+        color:#000000;
+        text-decoration:none;}  /* mouse over link */
+      a:active {
+        color:#000000;
+        text-decoration:none;
+      }
+    </style>
   </head>
   <body>
-    <h3>Nick Lang</h3>
+    <div class="container">
+      <div class="row">
+        <div class="span11">
+          <div class="page-header">
+            <h1>Nick Lang <small class="pull-right">
+              <a href="http://nick.treadhub.com" rel="tooltip" data-original-title="I train with treadhub"><img src="http://www.treadhub.com/static/favicon.ico"></a>
+               <a href="http://github.com/fxdgear" rel="tooltip" data-original-title="I code with github"><i class="icon-github"></i></a>
+               <a href="http://twitter.com/fxdgear" rel="tooltip" data-original-title="I annoy people with twitter"><i class="icon-twitter"></i></a>
+               <a href="https://plus.google.com/102954610753453742653" rel="tooltip" data-original-title="I share with google+"><i class="icon-google-plus"></i></a>
+               <a href="http://www.flickr.com/photos/friegh" rel="tooltip" data-original-title="I post photos with flickr"><i class="icon-camera-retro"></i></a>
+               <a href="http://lab305.com" rel="tooltip" data-original-title="I work at lab305"><i class="icon-beaker"></i></a>
+               <a href="mailto:nick@nicklang.com" rel="tooltip" data-original-title="email me"><i class="icon-envelope-alt"></i></a>
+              </small>
+            </h1>
+          </div>
+        </div>
+      </div>
 
-    <a class="oembed" src="http://www.flickr.com/photos/friegh/6191599802/in/set-72157627771143856">
-
-
-    My blog on <a href="http://nick.treadhub.com">Treadhub</a><br>
-    My code on <a href="http://github.com/fxdgear">Github</a><br>
-    My babble on <a href="http://twitter.com/fxdgear">Twitter</a><br>
+      <div class="row">
+        <div class="span12 offset2">
+          <ul class="thumbnails">
+            <li class="span6">
+              <a href="#" class="thumbnail">
+                <img src="http://farm7.staticflickr.com/6129/6191599802_799cf1c19e_z.jpg">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script>
+      $('a').tooltip({
+        placement: 'bottom'
+      })
+    </script>
   </body>
 </html>
