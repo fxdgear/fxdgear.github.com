@@ -1,1 +1,77 @@
+==================================================================
+https://keybase.io/fxdgear
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of http://nicklang.com
+  * I am fxdgear (https://keybase.io/fxdgear) on keybase.
+  * I have a public key with fingerprint 0C65 F603 3CD7 39C2 F76A  2556 EE07 595D 0CB2 9390
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "0c65f6033cd739c2f76a2556ee07595d0cb29390",
+            "host": "keybase.io",
+            "key_id": "EE07595D0CB29390",
+            "uid": "8ed3a17e02192e7efb2773355b409200",
+            "username": "fxdgear"
+        },
+        "merkle_root": {
+            "ctime": 1428530535,
+            "hash": "d2ec6cd855fd0a9dd1c20338e0d6fa4be0fc9907a0e6cadce736d3a8ec6502854d68c710098cee81db4ee6c174ea4135ffa8ce384bfe6ad30486e826e1604a72",
+            "seqno": 194881
+        },
+        "service": {
+            "hostname": "nicklang.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428530736,
+    "expire_in": 157680000,
+    "prev": "29e06dec0a7f56e8aa88c6faeb476e07d368e2933d2bc9afe01de9ed63750733",
+    "seqno": 36,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFVUm2IFVUYvndd3dyM7OOHrLdah9TYLpczc+Z8zGaBH0tYSq2hkeDePXPOO3fH
+vTtznZld3bbbFaFsKWlrf0QFKmFmPxZsRYWMSLbECEQQV4jS/aMpgrDERmZZZ24r
+5fk1Z97nfd7neZ8zct+cTHP2RtMrWxaMj45kf7jmZjYuPYiGDDdUg0b7kCHLPgRJ
++hWIPjDajV4YdEUMBT9sDUIFha1x6ywmbwxAFPthoFGowArMqOZTeNrs+UEJokrk
+p1wGkpR4FGEsFcOOtDxGhUUIBUCMOEQh6VoOdpCm7Anj5K6pRp2z6Cv9t6Ojjl+D
+Vq+6g++vFzgoLEwGyDIdCxh4rsUYxoS4NnIsVAfGEM1a8naoEogoldsHUW8ZilEY
+1j3LxE8Rpm1xghHBRAsScY/uURZIKhUnxFNIOEqZ0tKGOCBFPWG7gDzpOIgJBFQK
+JYFhqjVx3UWQZrMV5ZKZCDlcAnBTuTZopMlsELaJiecJXcDcdj2gQmFkcwrcomBS
+ZAtmaQcxbAtCLc6xOTer6T0a8CWkutOtzZoLfNlbFkGpIMM+3VSJwiSUYVlXepKk
+0p6aTgYrKXI7uMV47F+SousHSmf2/1DTGXcvRHvKG7Cj4kdQ9FMEYZQjfdI5MKA5
+LQcQVSCRYJ7OlwvBudQLAtdmVKetMOWgs8PKcqUjPECmAgcUxYxoevyfzXRUIkqa
+M/ZLgUj6IzCqw9lcYybbnJk3tyF9tpnm+QvvvOV4sOnv0iNP5jtHl3vG4tVdudNz
+hrr3serrjcfnPh3kWycTZ9evGz7dpD47NW9v2+5M/lLLo2fWnj3c/+6229bJr8em
+a/NzH72/5FZ0bvGzh6D7zW/s3FO3j/V0rupeseDyBw1Xz9/a82LTY1sOdE0sKRzc
+uP7+1y7D8A2Sy33cwN+78P3oc2/Yu3576PMLZ9Ye+Is8cO3tyZN7fqz+tHP46tEP
+G1/a8PJbU2LaXnnRvT6+tbZw6cSfIyv2b753+6Kx3a1fXoGvbt5TO7Ls8Utnb7a0
+/H56Ys3OWuFK9vqrtclF5aPLTj3zS+XbzuHuPw6Nz2yudp34bt/UJ+88XGornHi+
+7Ynwi44XihfZ9NSDP69cNzPzDw==
+=c+VB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fxdgear
+
+==================================================================
